@@ -15,7 +15,7 @@ Basic Vim Commands for navigating VS CODE
 
 "G" go to bottom of page
 
-"g" go to top of page
+"g" go to top of paghhkhke
 
 <!-- Basic Editing -->
 
