@@ -1,1 +1,20 @@
 <!--HTML basics  -->
+<title>
+<head>
+<body>
+<div>
+<h1>
+<h2>
+<h3>
+<h4>
+<p>
+<strong>
+<em>
+<br>
+<img>
+<a>
+<ui>
+<oi>
+<li>
+<hr>
+<br>
