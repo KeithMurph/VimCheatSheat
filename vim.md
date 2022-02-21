@@ -1,7 +1,8 @@
 Basic Vim Commands for navigating VS CODE
 
-
+"Ctrl+Alt+v"  Personal keybind to toggle vim on and off 
 <!-- Navigation -->
+"CapsLk" Personal Keybind to exit insert mode "Esc" is default 
 
 "H J K L" for navigation (key repeat hold to move faster)
 
@@ -15,7 +16,7 @@ Basic Vim Commands for navigating VS CODE
 
 "G" go to bottom of page
 
-"g" go to top of paghhkhke
+"g" go to top of page
 
 <!-- Basic Editing -->
 
@@ -23,14 +24,9 @@ Basic Vim Commands for navigating VS CODE
 
 "a" insert after the curor
 
-"I" to insert the beginning of the line your own 
+"I" to insert the beginning of the line your on 
 
 "A" to insert at the end of the line your on
-
-
-
-
-
 
 
 "r" to replace  individual character
@@ -38,14 +34,11 @@ Basic Vim Commands for navigating VS CODE
 
 "R" to replace string starting at cursor
 
-helloworld aessedhdkeh
+helloworld
 
 
 
-
-
-
-
+edckedkchkejdhckehdc
 
 
 
