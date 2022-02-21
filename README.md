@@ -1,2 +1,2 @@
-# VimCheatSheat
+# Developer CheatSheet 
 Basic Vim commands 
