@@ -1,5 +1,7 @@
 Basic Vim Commands for navigating VS CODE
 
+Install Vim Extension in VSCode "vscodevim.vim"
+
 "Ctrl+Alt+v"  Personal keybind to toggle vim on and off 
 <!-- Navigation -->
 "CapsLk" Personal Keybind to exit insert mode "Esc" is default 
@@ -38,7 +40,7 @@ helloworld
 
 
 
-edckedkchkejdhckehdc
+
 
 
 
