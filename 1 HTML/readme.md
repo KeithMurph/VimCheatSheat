@@ -17,6 +17,9 @@
 `<script src=""></script>`
         -How to add Javascript
 
+`<link rel="stylesheet" href="mystyle.css">`
+        -How to add CSS
+
 `<a href=""></a>`
         -Hyperlink tag 
 
@@ -31,4 +34,10 @@
 
 `<p>Paragraph text Smaller. Used for most text</p>`
 
-`<ul> Unordered List posts <li>items</li> with a ৹bullet point</ul>`
+`<ul> Unordered List posts <li>items</li> with a ⚪bullet point</ul>`
+
+`<ol> Unordered List posts <li>items</li> numbered </ol>`
+
+`<strong> Used to bold text without CSS</strong>`
+
+`<em> Used to italicize text without CSS </em>`
