@@ -5,10 +5,10 @@
 `<html>The Building tag for HTML. All HTML content goes inside this tag </html>`
 <br>
 
-<head>Head contains all metadata</head>
+`<head>Head contains all metadata</head>`
 <br>
 
-<title>Name of project Displayed in tab<title>
+`<title>Name of project Displayed in tab<title>`
         -title goes in head tag
 <br>
 
