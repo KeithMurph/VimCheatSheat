@@ -24,7 +24,7 @@ Install Vim Extension in VSCode "vscodevim.vim"
 
 "i" insert before the cursor(cursor takes up on whole letter space)
 
-"a" insert after the curor
+"a" insert after the cursor
 
 "I" to insert the beginning of the line your on 
 

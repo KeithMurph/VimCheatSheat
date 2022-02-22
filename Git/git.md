@@ -15,7 +15,7 @@ git push - to push changes to repo
 
 git pull - to pull changes from repo
 
-git fetch - git pull but doesnt effect local files 
+git fetch - git pull but doesn't effect local files 
 
 cp - copy
 
