@@ -4,16 +4,16 @@
 -Very early dev-
 
 Basic Cheatsheet and notes for a JavaScript full stack Developer.
-Langauge and technoligies 
+Language and technologies 
 
 -CS Basics
 -HTML
 -CSS
--JavsScript Basics
+-JavaScript Basics
 -Node
 -React
 -Git
--Libraies
+-Libraries
 -Frameworks
 -Api
 -Deployment
