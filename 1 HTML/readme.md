@@ -24,12 +24,7 @@
 `<a href=""></a>`
         -Hyperlink tag 
 
-
-<br>
-
 `<br>` Line Break
-
-<br>
 
 `<hr> Horizontal line`
 
