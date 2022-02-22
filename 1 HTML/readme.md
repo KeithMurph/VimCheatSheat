@@ -2,7 +2,7 @@
 
 ## Tags
 
-<html>The Building tag for HTML. All HTML content goes inside this tag </html>
+`<html>The Building tag for HTML. All HTML content goes inside this tag </html>`
 <br>
 
 <head>Head contains all metadata</head>
