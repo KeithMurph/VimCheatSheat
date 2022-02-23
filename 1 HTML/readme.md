@@ -6,7 +6,7 @@ The Building block of all web content provides a backbone or structure for your 
 
 "Mark up" - A computer language that uses tags to define elements within a document.
 <hr>
-The building blocks of a modern website includes **HTML** which provides stucture to what the user sees, `CSS` to style what the user sees and `JavaScript` which adds interaction for the user.
+The building blocks of a modern website includes HTML which provides stucture to what the user sees, CSS to style what the user sees and JavaScript which adds interaction for the user.
 <hr>
 
 
