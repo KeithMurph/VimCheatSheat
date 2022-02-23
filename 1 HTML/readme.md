@@ -1,6 +1,17 @@
 # HTML
+HyperText Markup Language
+The Building block of all web content provides a backbone or structure for your app or website.
 
-## Tags
+"HyperText" - The links or pointers that connect web pages to one another.
+
+"Mark up" - A computer language that uses tags to define elements within a document.
+<hr>
+The building blocks of a modern website includes HTML which provides stucture to what the user sees, CSS to style what the user sees and JavaScript which adds interaction for the user.
+<hr>
+
+
+
+# Tags
 
 `<html>The Building tag for HTML. All HTML content goes inside this tag </html>`
 
