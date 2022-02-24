@@ -13,9 +13,6 @@ The building blocks of a modern website includes HTML which provides structure t
 -https://developer.mozilla.org/en-US/docs/Web/HTML
 
 
-## Recommended Extensions for VSCode
--Open in Browser  "techer.open-in-browser"
--Bracket Pair Colorizer "CoenraadS.bracket-pair-colorizer"
 
 
 
@@ -66,6 +63,12 @@ The building blocks of a modern website includes HTML which provides structure t
 -https://www.w3schools.com/html/
 <br>
 -https://www.youtube.com/watch?v=ok-plXXHlWw
+
+
+# Recommended Extensions for VSCode
+-Open in Browser - techer.open-in-browser
+<br>
+-Bracket Pair Colorizer - CoenraadS.bracket-pair-colorizer
 
 # HTML +
  Emmet
