@@ -65,4 +65,16 @@ The building blocks of a modern website includes HTML which provides structure t
 <br>
 -https://www.youtube.com/watch?v=ok-plXXHlWw
 
- 
+# HTML +
+ Emmet
+ <br>
+ Double your HTML speed!!
+ <br>
+ HTML shorthand you're probably already using.
+ Emmet is a quicker way to write your HTML. It's a built in tool in VSCode to provide shortcuts and snippets to improve your HTML efficiency. 
+ <br>
+ You can write your CSS selector inside your HTML and Emmet will generate the corresponding HTML. 
+
+ # Emmet Resources 
+ -https://docs.emmet.io/cheat-sheet/
+ -https://youtu.be/V8vizNQKtx0
