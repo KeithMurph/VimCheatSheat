@@ -18,6 +18,8 @@ The building blocks of a modern website includes HTML which provides structure t
 
 # Tags
 
+Here are some common HTML tags to use. Check documentation for full list.
+
 `<html>The Building tag for HTML. All HTML content goes inside this tag </html>`
 
 `<head>Head contains all metadata</head>`
