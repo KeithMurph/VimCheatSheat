@@ -19,7 +19,7 @@
  ## Operations
  ## Input/Output
  ## Loops
-    -While Loops
+-While Loops
  ## Functions
  ## Aggregate data
  ## Classes
