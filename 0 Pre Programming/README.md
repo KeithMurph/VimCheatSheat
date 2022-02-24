@@ -7,7 +7,9 @@
 
 # Skills needed to work like a programmer
 
--
+   ## Master Googling
+    TODO
+
 -
 -
 
