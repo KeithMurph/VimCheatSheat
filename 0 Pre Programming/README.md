@@ -10,10 +10,9 @@
 ## Helpful Skills
 
    ### Master Googling
-    TODO
+    -If Google isn't helping you either need more understanding of the issue or the algorithm you wrote is flawed
+    -Bad implementation of an algorithm can be solved through Google
 
--
--
 
 # Core concepts of all languages 
 
