@@ -13,7 +13,9 @@ The building blocks of a modern website includes HTML which provides structure t
 -https://developer.mozilla.org/en-US/docs/Web/HTML
 
 
-
+## Recommended Extensions for VSCode
+-Open in Browser  "techer.open-in-browser"
+-Bracket Pair Colorizer "CoenraadS.bracket-pair-colorizer"
 
 
 
