@@ -37,14 +37,14 @@
    
  ## Input/Output
    ### Input
-    -Get information from the user
-    -Input implies an output
-    -Input implies a variable to hold data
-    -Forms
+   -Get information from the user
+   -Input implies an output
+   -Input implies a variable to hold data
+   -Forms
 
    ### Output 
-     -Print something for the user to see
-     -Outputs are typically text
+   -Print something for the user to see
+   -Outputs are typically text
  
  ## Branching
    -When an algorithm makes a choice between one or more things is called branching
@@ -101,7 +101,7 @@
    -Can contain functions(Methods)
    -Can guarantee am initial value(Constructors)
    -Can be combined and extended to make new things
-   
+
 
     
 
