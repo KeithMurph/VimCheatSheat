@@ -6,13 +6,15 @@
     
 # Sounds hard?
  So you want to dive into the world of computer programming? It might sound pretty intimidating or maybe even impossible at first but it's not! Anyone who has the dedication and the time can learn to code. Coding languages are actually far easier to learn than actual languages. For example english has over 273,000 words and a very inconsistent syntax. While most programming languages have about 100 words in their lexical library and have an incredibly strict syntax. 
+<br>
+Remember you don't need to know or memorize everything but knowing what you don't know can take you pretty far
+<br>
+Programming is essentially writing painfully detailed instructions for the computer to follow
+<br>
 
-## Helpful Skills
 
-   ### Master Googling
--If Google isn't helping you either need more understanding of the issue or the algorithm you wrote is flawed
 
--Bad implementation of an algorithm can be solved through Google
+
 
 
 # Core concepts of all languages 
@@ -103,7 +105,14 @@
    -Can be combined and extended to make new things
 
 
-    
+   ## Helpful Skills
+
+   ### Master Googling
+-If Google isn't helping you either need more understanding of the issue or the algorithm you wrote is flawed
+<br>
+-Bad implementation of an algorithm can be solved through Google
+<br>
+-Tips to Google like a pro https://pitcrewit.com/blog/6-tips-to-master-google-search/
 
 
 
