@@ -107,33 +107,3 @@
 
 
 
-# Basic Coding vocabulary
-
--wow
-
-# Road map
-
-### Pre Programming
-### HTML
-### CSS
-### JavaScript
-### Git basics
-### Github pages basics
-### libraries
-jquery/bootstrap/tailwind
-### Apis
-### Node
-### ExpressJs
-### Npm
-### Mysql
-### MVC
-### Testing
-### Error/Bug handling 
-### Deployment
-### PWA
-### MongoDB
-### React
-### FullStack
-### How to continue
-### Portfolio
-### Softskills
