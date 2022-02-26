@@ -23,7 +23,7 @@ Programming is essentially writing painfully detailed instructions for the compu
 
 
 # Core concepts of all languages
-   Patterns over syntax! While learning the syntax of a language you choose is import what is far more valuable is to retain the patterns that will you can see across all languages. This will help you understand the fundamentals and learning your second or third language will become even easier. 
+   Patterns over syntax! While learning the syntax of the  language you work in is import. What is far more valuable is to retain the patterns that will you can see across all languages. This will help you understand the fundamentals and will make learning your second or third language even easier to get started and recognize patterns.
 
  ##  Variables
    Variables are used to store data that can be referenced and manipulated
@@ -55,10 +55,10 @@ Programming is essentially writing painfully detailed instructions for the compu
    -Outputs are typically text
  
  ## Branching
-   -When an algorithm makes a choice between one or more things is called branching
+   -When an algorithm makes a choice between one or more things it is called branching
    -True/False Expression 
    -If condition is true do X instructions
-   -Else false then do Y instructions
+   -Else if condition is false then do Y instructions
    -Conditions can be nested within one another 
    -Switch Statements
    -And/Or
