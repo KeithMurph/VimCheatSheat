@@ -67,7 +67,7 @@ Programming is essentially writing painfully detailed instructions for the compu
    -How the computer manages repetition
    -All loops have a control variable sometimes called a sentry
    -Loops Have a Start
-   -Loops have an End
+   -Loops have an End (To avoid the dreaded INFINITE LOOP)
    -An end condition that changes the sentry
 
    ### For loops
