@@ -22,7 +22,8 @@ Programming is essentially writing painfully detailed instructions for the compu
 
 
 
-# Core concepts of all languages 
+# Core concepts of all languages
+   Patterns over syntax! While learning the syntax of a language you choose is import what is far more valuable is to retain the patterns that will you can see across all languages. This will help you understand the fundamentals and learning your second or third language will become even easier. 
 
  ##  Variables
    Variables are used to store data that can be referenced and manipulated
