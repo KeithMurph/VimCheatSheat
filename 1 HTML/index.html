@@ -19,38 +19,56 @@
   
 </body>
         <header>
-            <h1>Hello World!</h1>
-            <h2>This is HTML</h2>
-            <h3></h3>
+            <h1>Hello World! H1 tag</h1>
+            <h2>This is HTML H2 tag</h2>
+            <h3>H3</h3>
+            <h4>H4</h4>
+            <h5>H5</h5>
+            <h6>H6</h6>
+            <p>p tag</p>
         </header>    
 
         <div>
+          <!-- images use alt tags for best practice  -->
             <img src="https://placekitten.com/200/300" alt="cute cat pic">
             <h1>the cat</h1>
 
         </div>
         <section>
-            <h2>Contact Info</h2>
+            <h2>Contact Info (Unordered List)</h2>
             <!-- Unordered list -->
             <ul>
+              <!-- Strong tag to bold text -->
               <li><strong>Email:</strong> <a href="#">someplace@gmail.com</a></li>
               <li><strong>Github:</strong> <a href="#">sampleName</a></li>
               <li><strong>Portfolio:</strong> <a href="#">coming soon</a></li>
             </ul>
           </section>
 
+          <section>
+            <h2>Ordered List</h2>
+            <ol>
+              <li>Number 1</li>
+              <li>Number 2</li>
+              <li>Number 3</li>
+            </ol>
+          </section>
+
+          <!-- Color picker HTML -->
         <div>
             <h1>Color Picker</h1>
           <label for="favcolor"><h3>Select your favorite color:</h3></label>
           <input type="color" id="favcolor" name="favcolor">
         </div>
         
+        <!-- Editable Div -->
         <div>
             <div contenteditable="true">
              <h2>YOU CAN EDIT THIS DIV!!!!</h2>
             </div>
           </div>
 
+          <!-- HTML operations  -->
           <h2>Form with output</h2>
           <form oninput="result.value=parseInt(a.value)+parseInt(b.value)">
             <input type="number" id="b" name="b" value="10" /> +
@@ -58,7 +76,7 @@
             <output name="result" for="a b">20</output>
        </form>
 
-       <!-- example script sorce for javascript -->
+       <!-- example script source for javascript -->
 <script src=""></script>
         </body>
 </html>
