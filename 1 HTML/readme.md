@@ -77,6 +77,9 @@ Here are some common HTML tags to use. Check documentation for full list.
  <br>
  Double your HTML speed!!
  <br>
+In a new file simply write "html5" and enter for an instant HTML boiler plate 
+
+ <br>
  HTML shorthand you're probably already using.
  Emmet is a quicker way to write your HTML. It's a built in tool in VSCode to provide shortcuts and snippets to improve your HTML efficiency. 
  <br>
