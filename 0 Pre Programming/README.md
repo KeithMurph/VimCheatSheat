@@ -12,6 +12,8 @@ Remember you don't need to know or memorize everything but knowing what you don'
 Programming is essentially writing painfully detailed instructions for the computer to follow
 <br>
 
+<br>
+
 
 
 
@@ -107,6 +109,18 @@ Programming is essentially writing painfully detailed instructions for the compu
 
 
    ## In The Beginning 
+   ### DeBug 🪲
+   Build your skills one bug at a time. Failure is the best teacher when you embrace it.
+   <br>
+   Did you write it wrong or just tell it to do it incorrectly 
+   <br>
+       console.log(5 + "5")
+       OUTPUT: "55"
+       This is valid and will run but is not how we do addition.
+
+  <br>
+  We all love our fancy IDE syntax highlighting and snippets to improve our productivity, but they don't solve not understanding. 
+
 
   ### Comment, comment, comment
    One of the best tricks I've learned in the beginning is to write a descriptive comment for every segment of code you need to write. "Comments explain your code to the computer". Excessive commenting will not only help you understand your code in a week or month but also help anyone else trying deciphering your code. It only takes a moment and will help your tremendously down the line.
