@@ -110,7 +110,10 @@ Programming is essentially writing painfully detailed instructions for the compu
 
    ## In The Beginning 
    ### DeBug 🪲
-   Build your skills one bug at a time. Failure is the best teacher when you embrace it.
+   Build your skills one bug at a time. 
+   <br>
+   Failure is the best teacher when you embrace it.
+   <br>
    <br>
    Did you write it wrong or just tell it to do it incorrectly 
    <br>
