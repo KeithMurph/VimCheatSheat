@@ -118,8 +118,10 @@ Programming is essentially writing painfully detailed instructions for the compu
    Did you write it wrong or just tell it to do it incorrectly 
    <br>
        console.log(5 + "5")
+       <br>
        OUTPUT: "55"
-       This is valid and will run but is not how we do addition.
+       <br>
+       While this is a valid expression it is not how we do addition.
 
   <br>
   We all love our fancy IDE syntax highlighting and snippets to improve our productivity, but they don't solve not understanding. 
