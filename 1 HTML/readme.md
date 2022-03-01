@@ -77,7 +77,7 @@ Here are some common HTML tags to use. Check documentation for full list.
  <br>
  Double your HTML speed!!
  <br>
-In a new file simply write "html5" and enter for an instant HTML boiler plate 
+In a new file simply write "html:5" and enter for an instant HTML boiler plate 
 
  <br>
  HTML shorthand you're probably already using.
