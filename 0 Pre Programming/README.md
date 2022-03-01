@@ -6,11 +6,6 @@
     
 # Sounds hard?
  So you want to dive into the world of computer programming? It might sound pretty intimidating or maybe even impossible at first but it's not! Anyone who has the dedication and the time can learn to code. Coding languages are actually far easier to learn than actual languages. For example english has over 273,000 words and a very inconsistent syntax. While most programming languages have about 100 words in their lexical library and have an incredibly strict syntax. 
- Now this doesn't mean it'll be easy it will take a lot of hard work and you will never stop learning new technologies or skills.
-
-  ## Helpful Skills
-   ### Master Googling
- -If Google isn't helping you either need more understanding of the issue or the algorithm you wrote is flawed 
 <br>
 Remember you don't need to know or memorize everything but knowing what you don't know can take you pretty far
 <br>
@@ -22,8 +17,8 @@ Programming is essentially writing painfully detailed instructions for the compu
 
 
 
-# Core concepts of all languages
-   Patterns over syntax! While learning the syntax of the  language you work in is import. What is far more valuable is to retain the patterns that will you can see across all languages. This will help you understand the fundamentals and will make learning your second or third language even easier to get started and recognize patterns.
+# Core concepts of all languages 
+ Patterns over syntax! While learning the syntax of the  language you work in is import. What is far more valuable is to retain the patterns that will you can see across all languages. This will help you understand the fundamentals and will make learning your second or third language even easier to get started and recognize patterns.
 
  ##  Variables
    Variables are used to store data that can be referenced and manipulated
@@ -55,10 +50,10 @@ Programming is essentially writing painfully detailed instructions for the compu
    -Outputs are typically text
  
  ## Branching
-   -When an algorithm makes a choice between one or more things it is called branching
+   -When an algorithm makes a choice between one or more things is called branching
    -True/False Expression 
    -If condition is true do X instructions
-   -Else if condition is false then do Y instructions
+   -Else false then do Y instructions
    -Conditions can be nested within one another 
    -Switch Statements
    -And/Or
@@ -67,7 +62,7 @@ Programming is essentially writing painfully detailed instructions for the compu
    -How the computer manages repetition
    -All loops have a control variable sometimes called a sentry
    -Loops Have a Start
-   -Loops have an End (To avoid the dreaded INFINITE LOOP)
+   -Loops have an End
    -An end condition that changes the sentry
 
    ### For loops
@@ -111,7 +106,10 @@ Programming is essentially writing painfully detailed instructions for the compu
    -Can be combined and extended to make new things
 
 
-   ## Helpful Skills
+   ## In The Beginning 
+
+  ### Comment, comment, comment
+   One of the best tricks I've learned in the beginning is to write a descriptive comment for every segment of code you need to write. "Comments explain your code to the computer". Excessive commenting will not only help you understand your code in a week or month but also help anyone else trying deciphering your code. It only takes a moment and will help your tremendously down the line.
 
    ### Master Googling
 -If Google isn't helping you either need more understanding of the issue or the algorithm you wrote is flawed
