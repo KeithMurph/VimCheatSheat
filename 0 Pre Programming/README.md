@@ -109,6 +109,8 @@ Programming is essentially writing painfully detailed instructions for the compu
 
 
    ## In The Beginning 
+   TAKE ALL BEGINNER ADVICE WITH A GRAIN OF SALT 🧂
+  
    ### DeBug 🪲
    Build your skills one bug at a time. 
    <br>
@@ -127,10 +129,10 @@ Programming is essentially writing painfully detailed instructions for the compu
   We all love our fancy IDE syntax highlighting and snippets to improve our productivity, but they don't solve not understanding. 
 
 
-  ### Comment, comment, comment
+  ### Comment, comment, comment 💭
    One of the best tricks I've learned in the beginning is to write a descriptive comment for every segment of code you need to write. "Comments explain your code to the computer". Excessive commenting will not only help you understand your code in a week or month but also help anyone else trying deciphering your code. It only takes a moment and will help your tremendously down the line.
 
-   ### Master Googling
+   ### Master Googling  🔎
 -If Google isn't helping you either need more understanding of the issue or the algorithm you wrote is flawed
 <br>
 -Bad implementation of an algorithm can be solved through Google
