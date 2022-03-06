@@ -2,6 +2,8 @@
 Cascading style sheets
 <br>
 A stylesheet language used to describe the look and presentation of a HTML document.
+<br>
+<strong><h2>HOW WE ADD STYLE<h2></strong>
 
 
 
