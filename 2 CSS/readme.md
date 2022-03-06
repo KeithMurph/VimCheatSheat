@@ -38,8 +38,8 @@ The 'rel' is the relationship attribute thats telling the file it's linking a CS
 <br>
 "href" is the file or pointer to a file 
 
-
-
+<br>
+<hr>
 
 # Selectors
 
