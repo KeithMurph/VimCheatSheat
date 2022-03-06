@@ -1,5 +1,17 @@
 # CSS
+## Selectors
 
+Specificity wins out
+<br>
+High Priority to Low
+<br>
+Inline / Universal tags
+<br>
+Element tags
+<br>
+Classes
+<br>
+Id
 
 Box Model
 
