@@ -71,27 +71,27 @@ The least recommended of the selectors but the easiest way of testing the stylin
 
  
 ## Element tags
-` h1{
+h1{
 
-} `
+} 
 <br>
 
 HTML tags can be assigned styles
 <br>
 div, h1, header, strong, etc...
 
-## Classes
-`  .classname{
+## Classes ⭐
+  .classname{
 
-}  `
+}  
 <br>
 elements can have multiple classes 
 
 ## Id
-` #id_name {
+#id_name {
 
-    
-} `
+
+} 
 
 # Box Model
 Box Model
