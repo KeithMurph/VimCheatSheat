@@ -1,17 +1,43 @@
 # CSS
-## Selectors
+Cascading style sheets
+<br>
+A stylesheet language used to describe the look and presentation of a HTML document.
 
-Specificity wins out
+
+
+
+<hr>
+The building blocks of a modern website includes HTML which provides structure to what the user sees, CSS to style what the user sees and JavaScript which adds interaction for the user.
+<hr>
+
+# Selectors
+
+
+In CSS we describe the styling through selectors.
 <br>
-High Priority to Low
+
+selector {
+    property1: value;
+    property2: value;
+}
 <br>
-Inline / Universal tags
+Selectors can also have unique properties with values of their own 
+
+
+Specificity wins out!
 <br>
-Element tags
+High Priority to Low ⬇
 <br>
-Classes
-<br>
-Id
+    
+## Inline / Universal tags
+The least recommended of te selectors but the easiest to test styling of specific elements.
+<h1 style= "color: blue;">Styled inline </h1>
+ 
+## Element tags
+
+## Classes
+
+## Id
 
 Box Model
 
