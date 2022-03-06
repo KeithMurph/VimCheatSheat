@@ -30,8 +30,14 @@ High Priority to Low ⬇
 <br>
     
 ## Inline / Universal tags
-The least recommended of te selectors but the easiest to test styling of specific elements.
-<h4 style="text-align:center;">Styled inline </h4>
+-Inside the HTML element-
+<br>
+
+The least recommended of the selectors but the easiest way of testing the styling of specific HTML elements.
+<br>
+
+`<h1 style="color:blue;text-align:center;"> This is blue and centered </h1>`
+
  
 ## Element tags
 
