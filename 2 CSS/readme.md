@@ -73,7 +73,8 @@ The least recommended of the selectors but the easiest way of testing the stylin
 ## Element tags
 h1{
 
-} 
+}
+<hr> 
 <br>
 
 HTML tags can be assigned styles
@@ -83,7 +84,8 @@ div, h1, header, strong, etc...
 ## Classes ⭐
   .classname{
 
-}  
+}
+<hr>  
 <br>
 elements can have multiple classes 
 
@@ -92,7 +94,7 @@ elements can have multiple classes
 
 
 } 
-
+<hr>
 # Box Model
 Box Model
 
