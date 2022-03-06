@@ -31,7 +31,7 @@ High Priority to Low ⬇
     
 ## Inline / Universal tags
 The least recommended of te selectors but the easiest to test styling of specific elements.
-<h1 style= "color: blue;">Styled inline </h1>
+<h4 style= "color: yellow ;">Styled inline </h4>
  
 ## Element tags
 
