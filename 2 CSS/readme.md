@@ -10,6 +10,37 @@ A stylesheet language used to describe the look and presentation of a HTML docum
 The building blocks of a modern website includes HTML which provides structure to what the user sees, CSS to style what the user sees and JavaScript which adds interaction for the user.
 <hr>
 
+# 3 Ways to add CSS
+<hr>
+
+## Inline
+Style within a HTML element 
+<br>
+
+    `<h1 style="color:blue;text-align:center;"> This is blue and centered </h1>`
+<br>
+
+## Style Element
+Internal CSS file.
+<br>
+Usable only on the page that contains the style tag
+
+` <style> Full CSS format within single HTML tag </style>` `
+
+<br>
+
+## External CSS File ⭐
+Use ` <link> ` element to link a CSS file
+
+` <link rel="stytlesheet>" href="styles.css"/> `
+
+The 'rel' is the relationship attribute thats telling the file it's linking a CSS file.
+<br>
+"href" is the file or pointer to a file 
+
+
+
+
 # Selectors
 
 
@@ -29,8 +60,8 @@ Specificity wins out!
 High Priority to Low ⬇
 <br>
     
-## Inline / Universal tags
--Inside the HTML element-
+## Inline 
+-Style Inside the HTML element-
 <br>
 
 The least recommended of the selectors but the easiest way of testing the styling of specific HTML elements.
@@ -40,11 +71,29 @@ The least recommended of the selectors but the easiest way of testing the stylin
 
  
 ## Element tags
+` h1{
+
+} `
+<br>
+
+HTML tags can be assigned styles
+<br>
+div, h1, header, strong, etc...
 
 ## Classes
+`  .classname{
+
+}  `
+<br>
+elements can have multiple classes 
 
 ## Id
+` #id_name {
 
+    
+} `
+
+# Box Model
 Box Model
 
 ![boxModel](https://user-images.githubusercontent.com/85463607/156156853-dc22af79-c3be-4bed-bdbd-ff7d8cea9b43.jpg)
