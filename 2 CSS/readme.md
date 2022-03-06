@@ -31,6 +31,7 @@ Usable only on the page that contains the style tag
 
 ## External CSS File ⭐
 -recommended method-
+<br>
 Use ` <link> ` element to link a CSS file
 
 ` <link rel="stytlesheet>" href="styles.css"/> `
@@ -84,6 +85,7 @@ div, h1, header, strong, etc...
 
 ## Classes ⭐
 -Used 90% of the time-
+<br>
   .classname{
 
 }
