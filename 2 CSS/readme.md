@@ -31,7 +31,7 @@ High Priority to Low ⬇
     
 ## Inline / Universal tags
 The least recommended of te selectors but the easiest to test styling of specific elements.
-<h4 style= "font: monospace ;">Styled inline </h4>
+<h4 style="text-align:center;">Styled inline </h4>
  
 ## Element tags
 
