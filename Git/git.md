@@ -1,5 +1,13 @@
 <!-- git basics -->
 
+Download Git / Gitbash 
+<!--https://git-scm.com/downloads -->
+
+
+Git- The collection of command line programs that make up the Git version control system
+
+GitBash- Shell application for Windows users
+Bash - Shell application for Linux and Mac users  
 
 Basic Commands
 
